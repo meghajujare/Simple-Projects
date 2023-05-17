@@ -149,7 +149,7 @@ void diamond_pattern()
 void main()
 {
 int number=0;     
-printf("Enter 1 for printing Butterfly pattern, 2 for Solid Rhombus pattern, 3 for Hollow      Rhombus pattern, 4 for Diamond pattern: ");    
+printf("Enter 1 for printing Butterfly pattern, 2 for Solid Rhombus pattern, 3 for Hollow Rhombus pattern, 4 for Diamond pattern: ");    
 scanf("%d",&number);    
 switch(number){    
 case 1:    
